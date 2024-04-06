@@ -1,7 +1,7 @@
 # CalculatorApp 🧮
 <b>Introducing</b> our intuitive C# calculator application, seamlessly blending GUI and backend functionalities. Perfect for both decimal and integer operations, it's provides streamlined calculations and is made in <b>.NET framework</b>. #CSharp #WinForms #MathMagic 💻✨
 
-**CalcMaster - Your Ultimate Math Companion 🌟**
+<h3>CalcMaster - Your Ultimate Math Companion 🌟</h3>
 Welcome to CalcMaster, where number crunching meets simplicity and elegance. This Window Form application is meticulously designed to handle basic arithmetic tasks effortlessly. From addition to subtraction, multiplication to division, CalcMaster has got you covered.
 
 Key Features 🚀
@@ -14,4 +14,4 @@ Key Features 🚀
 
 4. **Clear Functionality:** Need to start over? No problem! CalcMaster provides clear functionality, allowing users to erase input digits individually or wipe the entire input field at once, ensuring a hassle-free experience.
 
-Note: CalcMaster is more than just a calculator; it's a reliable companion for all your basic mathematical endeavors, delivering efficiency and convenience in one elegant package.
+Note: CalcMaster is more than just a calculator; it's a reliable tool for all <b> basic mathematical endeavors</b>, delivering efficiency and convenience in one elegant package.
